@@ -1,5 +1,3 @@
-# GC10 Steel Surface Defect Classification using Custom CNN
-
 ## Overview
 This project classifies steel surface defect images from the GC10-DET dataset using custom CNN architectures.
 
