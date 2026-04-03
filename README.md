@@ -1,0 +1,1 @@
+# GC10-Steel-Defect-CNN-Assignment
